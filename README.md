@@ -1,1 +1,12 @@
-# assignment1
+ Task 1: Perform Basic Mathematical Operations
+- Variables  
+- Input/Output  
+- Conditions (if/else)  
+- Loops  
+- Basic calculations
+- Task 2: Create a Personalized Greeting
+- User input handling  
+- Type conversion (string to int)  
+- Conditional statements  
+- Calculation logic  
+- Output formatting
